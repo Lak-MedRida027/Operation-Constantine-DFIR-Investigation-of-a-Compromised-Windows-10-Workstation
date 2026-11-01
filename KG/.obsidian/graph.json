@@ -1,0 +1,72 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#attack",
+      "color": {
+        "a": 1,
+        "rgb": 11821130
+      }
+    },
+    {
+      "query": "tag:#artifact",
+      "color": {
+        "a": 1,
+        "rgb": 14833450
+      }
+    },
+    {
+      "query": "tag:#evidence",
+      "color": {
+        "a": 1,
+        "rgb": 1997752
+      }
+    },
+    {
+      "query": "tag:#entity",
+      "color": {
+        "a": 1,
+        "rgb": 13139240
+      }
+    },
+    {
+      "query": "tag:#analysis  ",
+      "color": {
+        "a": 1,
+        "rgb": 1878016
+      }
+    },
+    {
+      "query": "tag:#flags",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "tag:#moc",
+      "color": {
+        "a": 1,
+        "rgb": 12845306
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.49054054054054,
+  "lineSizeMultiplier": 1.83690228690229,
+  "collapse-forces": false,
+  "centerStrength": 0.404365904365904,
+  "repelStrength": 12,
+  "linkStrength": 1,
+  "linkDistance": 130,
+  "scale": 0.7999999999999988,
+  "close": false
+}
